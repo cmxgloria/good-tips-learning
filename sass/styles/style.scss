@@ -1,0 +1,6 @@
+@import "./header";
+@import "./variables";
+.contact {
+  // background: $primaryBtn;
+  @include flexCenter(row, rgb(212, 74, 23));
+}
