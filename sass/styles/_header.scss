@@ -16,7 +16,7 @@ header {
   button {
     background: $primaryBtn;
     &:hover {
-      background: purple;
+      background: rgb(124, 50, 124);
     }
     &::after {
       content: "hellloooo";
